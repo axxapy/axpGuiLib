@@ -4,6 +4,6 @@
 	android:versionCode="1"
 	android:versionName="1.0" >
 	<uses-sdk android:minSdkVersion="7" />
-	<component android:icon="@drawable/ic_launcher" >
+	<component>
 	</component>
 </manifest>
